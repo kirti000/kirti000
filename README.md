@@ -1,5 +1,8 @@
 ### Hi there 👋
-
+## baracktocat gif:
+<img align='center' src='https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/octocat/baracktocat.jpg' width='300"'>
+<br>
+<br>
 <!--
 **kirti000/kirti000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
